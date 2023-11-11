@@ -1,0 +1,10 @@
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\bin\Debug\ASEASSIGNMENT.exe.config
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\bin\Debug\ASEASSIGNMENT.exe
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\bin\Debug\ASEASSIGNMENT.pdb
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\obj\Debug\ASEASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\obj\Debug\ASEASSIGNMENT.Form1.resources
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\obj\Debug\ASEASSIGNMENT.Properties.Resources.resources
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\obj\Debug\ASEASSIGNMENT.csproj.GenerateResource.cache
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\obj\Debug\ASEASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\obj\Debug\ASEASSIGNMENT.exe
+C:\Users\LukeJ\OneDrive\Documents\University\ASE\Assignment\ASEASSIGNMENT\ASEASSIGNMENT\obj\Debug\ASEASSIGNMENT.pdb
