@@ -35,7 +35,11 @@ namespace ASEASSIGNMENT
             MyParser = new Parser();
 
         }
-
+        /// <summary>
+        /// 
+        /// </reads all the text inside the rich text box>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
@@ -47,14 +51,22 @@ namespace ASEASSIGNMENT
                 richTextBox1.Text = File.ReadAllText(ofd.FileName);
             }
         }
-
+        /// <summary>
+        /// reads the text line by line from the text box
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
             string RichTextBoxContents = richTextBox1.Text;
             string[] RichTextBoxLines = richTextBox1.Lines;
 
         }
-
+        /// <summary>
+        /// saves the file when the button is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button2_Click(object sender, EventArgs e)
         {
             SaveFileDialog sfd = new SaveFileDialog();
@@ -86,7 +98,11 @@ namespace ASEASSIGNMENT
             Circle myCircle = new Circle(100, 100, radius);
             myCircle.draw(graphics);
         }
-
+        /// <summary>
+        /// clears any drawing inside the picture box
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Clear(object sender, EventArgs e)
         {
             if (pictureBox2.Image != null)
